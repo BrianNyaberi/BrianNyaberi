@@ -6,13 +6,15 @@
 
 I am a Full Stack Developer with heavy emphasis on backend development and database management. I'm enthusiastic and knowledgeable in web development; innovative static and dynamic websites using current W3C coding standards.
 
-- 🔭 I’m currently working on Geolocation services
+- 🔭 I’m currently working on Backend Development mastery
 - 🌱 I’m currently learning the Node.js Developer Roadmap
+- 🥅 2022 Goals: Learn more about web3
 - 💬 Ask me about Web backend development
 
 :mailbox: Reach out!
 
-(https://www.linkedin.com/in/brian-nyaberi-91572115a/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/brian-nyaberi-91572115a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/brian-nyaberi-91572115a#gh-dark-mode-only)
 
 
 ## Skills
