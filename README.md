@@ -7,7 +7,7 @@
 I am a Full Stack Developer with heavy emphasis on backend development and database management. I'm enthusiastic and knowledgeable in web development; innovative static and dynamic websites using current W3C coding standards.
 
 - 🔭 I’m currently working on Backend Development mastery
-- 🌱 I’m currently learning the Node.js Developer Roadmap
+- 🌱 I’m currently learning everything 😎
 - 🥅 2022 Goals: Learn more about web3
 - 💬 Ask me about Web backend development
 
