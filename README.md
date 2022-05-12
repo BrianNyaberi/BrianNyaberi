@@ -9,7 +9,6 @@ I am a Full Stack Developer with heavy emphasis on backend development and datab
 - 🔭 I’m currently working on Backend Development mastery
 - 🌱 I’m currently learning everything 😎
 - 🥅 2022 Goals: Learn more about web3
-- 💬 Ask me about Web backend development
 
 :mailbox: Reach out!
 
