@@ -31,7 +31,7 @@ I am a Full Stack Developer with heavy emphasis on backend development and datab
 
 [![Visaul studio code Badge](https://img.shields.io/badge/-Vscode-0098FF?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0098FF)](#) [![Git Badge](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#) [![NPM Badge](https://img.shields.io/badge/-npm-CC3534?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) [![Netlify Badge](https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#) [![Heroku Badge](https://img.shields.io/badge/-Heroku-6567a5?style=for-the-badge&labelColor=black&logo=heroku&logoColor=6567a5)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611)](#) [![Mongodb Badge](https://img.shields.io/badge/-MongDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#) [![Prettier Badge](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&labelColor=black&logo=prettier&logoColor=F7B93E)](#)
 
-## My stats
+##
 
 <!-- 
 [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianNyaberi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNyaberi&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
