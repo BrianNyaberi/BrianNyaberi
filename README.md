@@ -2,7 +2,7 @@
 **BrianNyaberi/BrianNyaberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there I'm Brian Nyaberi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there I'm Brian Nyaberi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" />
 
 I am a Full Stack Developer with heavy emphasis on backend development and database management. I'm enthusiastic and knowledgeable in web development; innovative static and dynamic websites using current W3C coding standards.
 
