@@ -20,13 +20,15 @@ I am a Full Stack Developer with heavy emphasis on backend development and datab
 
 ### Programming languages
 
-<!--// [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)(#)] -->
-
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) [!(https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#) [(https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=f0db4f)](#) 
+[![HTNL5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Bootstrap3](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 
 ### Libraries and frameworks
 
 [![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0868AC)](#) [![Vuejs Badge](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=41b883)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodejs-68a063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68a063)](#)
+
+### Cloud and Database
+
+[![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 ### Tools and platforms
 
