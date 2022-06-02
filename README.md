@@ -20,7 +20,7 @@ I am a Full Stack Developer with heavy emphasis on backend development and datab
 
 ### Programming languages
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=f0db4f)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=f0db4f)](#) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 
 ### Libraries and frameworks
 
