@@ -18,23 +18,28 @@ I am a Full Stack Developer with heavy emphasis on backend development and datab
 
 ## Skills
 
-### Programming languages
+### 👨‍💻Programming languages
 
-[![HTNL5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Bootstrap3](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![HTNL5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Bootstrap3](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
 
-### Libraries and frameworks
+### 🚀Libraries and frameworks
 
-[![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0868AC)](#) [![Vuejs Badge](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=41b883)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodejs-68a063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68a063)](#)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#) [![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](#) [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#) [![Vuejs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#) [![NodeJs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
 
-### Cloud and Database
 
-[![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+### ☁ Cloud and Database
 
-### Tools and platforms
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#) [![MongoDb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![MySql Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)  [![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](#) [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#) 
+
+### 💲 Cryptocurrency 
+[![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](#) [![Binance Badge](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](#) [![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](#)
+
+### 🛠 Tools and platforms
 
 [![Visaul studio code Badge](https://img.shields.io/badge/-Vscode-0098FF?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0098FF)](#) [![Git Badge](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#) [![NPM Badge](https://img.shields.io/badge/-npm-CC3534?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) [![Netlify Badge](https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#) [![Heroku Badge](https://img.shields.io/badge/-Heroku-6567a5?style=for-the-badge&labelColor=black&logo=heroku&logoColor=6567a5)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611)](#) [![Mongodb Badge](https://img.shields.io/badge/-MongDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#) [![Prettier Badge](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&labelColor=black&logo=prettier&logoColor=F7B93E)](#)
 
-##
+### 🧐Linters
+[![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](#)
 
 <!-- 
 [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianNyaberi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNyaberi&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
