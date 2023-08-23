@@ -41,7 +41,7 @@ I am a Full Stack Developer with heavy emphasis on backend development and datab
 ### 🧐 Linters
 [![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](#)
 
-### ⚒️ Stack 
+<!-- ### ⚒️ Stack  -->
 
 <!-- [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianNyaberi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
