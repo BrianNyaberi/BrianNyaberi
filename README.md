@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" />I'm Brian Nyaberi 
 
-I am a Full Stack Developer with heavy emphasis on backend development and database management. I'm enthusiastic and knowledgeable in web development; innovative static and dynamic websites using current W3C coding standards.
+Welcome to my coding realm! I'm on an exhilarating journey to leave a positive impact the Tech universe. I am a Full Stack Web Developer with heavy emphasis on backend development and database management. I'm enthusiastic and knowledgeable in web design and development; innovative static and dynamic websites using current W3C coding standards.
 
 - 🔭 I’m currently working on Js Fullstack Development mastery
 - 🌱 I’m currently learning everything 😎 - Jack of all trades
@@ -49,3 +49,20 @@ I am a Full Stack Developer with heavy emphasis on backend development and datab
 
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrianNyaberi&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats) 
   -->
+
+
+
+
+<!-- 👨‍💻 Welcome to my coding realm! I'm on an exhilarating journey to conquer the digital universe as a Full Stack Web Developer with an insatiable appetite for backend intricacies and the orchestration of databases. My code is not just syntax, but a symphony that adheres to the harmonious W3C coding standards, producing innovative static and dynamic websites that are as visually appealing as they are functionally robust.
+
+🌐 Python, Golang, and Rust are my chosen enchantments, weaving spells of logic and interactivity across the digital canvas. My incantations are directed towards crafting seamless web experiences and forging agile, all-encompassing solutions. As the sun rises and sets, I'm unwrapping the mysteries of Python's elegance, Golang's efficiency, and Rust's resilience, all in the pursuit of web mastery.
+
+📱With the heart of an adventurer, I've set sail to conquer the twin seas of web and mobile. Fluttering my wings towards mobile mastery, I'm crafting spells for enchanting apps that dance effortlessly on the palms of Android and iOS users. But my journey doesn't end there. I'm on a quest to harness the power of web technologies to create Progressive Web Apps (PWAs) that transcend boundaries, Responsive Single Page Applications (SPAs) that adapt like chameleons, and desktop solutions that harmonize perfectly with the Microsoft Windows landscape.
+
+🏢 Beyond the realms of individual projects, I harbor grand ambitions to forge an all-encompassing ERP system that caters to the needs of companies and organizations. A masterpiece of code, this system will stand as a testament to my dedication and expertise, seamlessly flowing across all platforms like a digital chameleon. From the bustling streets of Android and iOS to the virtual halls of PWAs and the expansive landscapes of Responsive SPA websites, my creation shall flourish.
+
+📆 As the pages of 2023 turn, my goals stand tall like ancient obelisks. While I unravel the mysteries of the conventional web, I'm also dipping my toes into the ethereal waters of web3, where the blockchain and its innovations beckon. With a quiver full of ambitions and a bow strung with determination, I march onward into the ever-shifting sands of technology.
+
+So, if you're ready to embark on a journey of innovation, resilience, and digital artistry, join me as we code the future into existence! 🚀🔮 
+
+Am curios on learning Python, Golang and Rust for web and flatter for mobile. The and goal is to create an all round ERP system for companies & organizations. The system will be compatible in all platforms i.e. (mobile[Android & IOS], PWAs, Responsive SPA website, & computers such as MS windows ).-->
