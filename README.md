@@ -20,11 +20,11 @@ Welcome to my coding realm! I'm on an exhilarating journey to leave a positive i
 
 ### 👨‍💻 Programming languages
 
-[![HTNL5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Bootstrap3](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
+[![HTNL5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Bootstrap3](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![Java Badge](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javas&logoColor=F7DF1E)](#) [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
 
 ### 🚀 Libraries and frameworks
 
-[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#) [![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](#) [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#) [![Vuejs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#) [![NodeJs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#) [![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](#) [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#) [![ReactJs Badge](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)](#) [![Typescript Badge](https://img.shields.io/badge/Typescript-0769AD?style=for-the-badge&logo=typescript&logoColor=white)](#) [![Vuejs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#) [![NodeJs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
 
 
 ### ☁ Cloud and Database
@@ -36,19 +36,19 @@ Welcome to my coding realm! I'm on an exhilarating journey to leave a positive i
 
 ### 🛠 Tools and platforms
 
-[![Visaul studio code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) [![NPM Badge](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#) 
+[![Visaul studio code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) [![NPM Badge](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#) [![Docker Badge](https://img.shields.io/badge/Docker-E44C30?style=for-the-badge&logo=docker&logoColor=white)]
 
 ### 🧐 Linters
 [![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](#)
 
-<!-- ### ⚒️ Stack  -->
+### ⚒️ Stack  -->
 
-<!-- [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianNyaberi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianNyaberi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNyaberi&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNyaberi&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
- <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrianNyaberi&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats) 
-  -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrianNyaberi&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats) 
+ 
 
 
 
