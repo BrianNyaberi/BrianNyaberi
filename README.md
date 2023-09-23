@@ -32,7 +32,15 @@ Welcome to my coding realm! I'm on an exhilarating journey to leave a positive i
 
 ### 🛠 Tools and platforms
 
-(https://img.shields.io/badge/Docker-E44C30?style=for-the-badge&logo=docker&logoColor=white)(#) [![Visaul studio code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) [![NPM Badge](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]
+<!-- [[Badge][(https://img.shields.io/badge/Docker-E44C30?style=for-the-badge&logo=docker&logoColor=white)] -->
+
+[![Docker Badge](https://img.shields.io/badge/Docker-E44C30?style=for-the-badge&logo=docker&logoColor=white)]
+
+(#) [![Visaul studio code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
+
+(#) [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
+
+(#) [![NPM Badge](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]
 
 ### 🧐 Linters
 [![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](#)
