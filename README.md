@@ -1,7 +1,3 @@
-<!--
-**BrianNyaberi/BrianNyaberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" />I'm Brian Nyaberi 
 
 Welcome to my coding realm! I'm on an exhilarating journey to leave a positive impact the Tech universe. I am a Full Stack Web Developer with heavy emphasis on backend development and database management. I'm enthusiastic and knowledgeable in web design and development; innovative static and dynamic websites using current W3C coding standards.
@@ -24,7 +20,7 @@ Welcome to my coding realm! I'm on an exhilarating journey to leave a positive i
 
 ### 🚀 Libraries and frameworks
 
-[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#) [![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](#) [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#) [![ReactJs Badge](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)](#) [![Typescript Badge](https://img.shields.io/badge/Typescript-0769AD?style=for-the-badge&logo=typescript&logoColor=white)](#) [![Vuejs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#) [![NodeJs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#) [![CodeIgniter Badge](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](#) [![ReactJs Badge](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)](#) [![Typescript Badge](https://img.shields.io/badge/Typescript-0769AD?style=for-the-badge&logo=typescript&logoColor=white)](#) [![Vuejs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#) [![NodeJs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
 
 
 ### ☁ Cloud and Database
@@ -36,23 +32,21 @@ Welcome to my coding realm! I'm on an exhilarating journey to leave a positive i
 
 ### 🛠 Tools and platforms
 
-[![Visaul studio code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) [![NPM Badge](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#) [![Docker Badge](https://img.shields.io/badge/Docker-E44C30?style=for-the-badge&logo=docker&logoColor=white)]
+(https://img.shields.io/badge/Docker-E44C30?style=for-the-badge&logo=docker&logoColor=white)(#) [![Visaul studio code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) [![NPM Badge](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]
 
 ### 🧐 Linters
 [![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](#)
 
-### ⚒️ Stack  -->
-
-[![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianNyaberi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### ⚒️ Stack  --> 
+<!-- [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianNyaberi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Brian Nyaberi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNyaberi&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrianNyaberi&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrianNyaberi&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats)  
+
+ [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+-->
  
-
-
-
-
 <!-- 👨‍💻 Welcome to my coding realm! I'm on an exhilarating journey to conquer the digital universe as a Full Stack Web Developer with an insatiable appetite for backend intricacies and the orchestration of databases. My code is not just syntax, but a symphony that adheres to the harmonious W3C coding standards, producing innovative static and dynamic websites that are as visually appealing as they are functionally robust.
 
 🌐 Python, Golang, and Rust are my chosen enchantments, weaving spells of logic and interactivity across the digital canvas. My incantations are directed towards crafting seamless web experiences and forging agile, all-encompassing solutions. As the sun rises and sets, I'm unwrapping the mysteries of Python's elegance, Golang's efficiency, and Rust's resilience, all in the pursuit of web mastery.
