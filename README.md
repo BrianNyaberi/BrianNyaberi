@@ -1,8 +1,12 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" />I'm Brian Nyaberi 
 
-Welcome to my coding realm! I'm on an exhilarating journey to leave a positive impact the Tech universe. I am a Full Stack Web Developer with heavy emphasis on backend development and database management. I'm enthusiastic and knowledgeable in web design and development; innovative static and dynamic websites using current W3C coding standards.
+Welcome to my coding realm! I'm on a journey to impact the Tech space positively. I am a Full Stack Web Developer with a heavy emphasis on backend development and database administration. I'm enthusiastic and knowledgeable in web design and development.
+- JS
+- PHP
+- Python
+- SQL & No-SQL DBs
 
-- 🔭 I’m currently working on Js Fullstack Development mastery
+- 🔭 I’m working on a Python-based model for predicting stock and forex prices and a bot to place a trade based on the signal. 
 - 🌱 I’m currently learning everything 😎 - Jack of all trades
 - 🥅 2023 Goals: Learn more about web3, 
 
