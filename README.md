@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" />I'm Brian Nyaberi 
 
-Welcome to my coding realm! I'm on a journey to impact the Tech space positively. I am a Full Stack Web Developer with a heavy emphasis on backend development and database administration. I'm enthusiastic and knowledgeable in web design and development.
+I am a Full Stack Web Developer with a heavy emphasis on backend development and databases. I'm enthusiastic, knowledgeable and experienced in web design, development, testing, deployment and maintenance.
 - JS
 - PHP
 - Python
