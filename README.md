@@ -2,11 +2,12 @@
 
 A versatile full-stack developer with over 7 years of experience building comprehensive end-to-end solutions across mobile, web, and AI platforms. Enthusiastic, knowledgeable, and experienced in design, development, testing, deployment, and maintenance.
 
-- Kotlin & Flutter
+- Kotlin, React Native & Flutter
 - JavaScript
 - PHP
 - Python
 - SQL & No-SQL DBs
+- DevOps
 
 :mailbox: Reach out!
 
